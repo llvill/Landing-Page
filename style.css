@@ -153,4 +153,15 @@ button{
 .placeord{
     margin: 0;
 }
-
+.footer{
+    background-color: #1F2937;
+    height: 75px;
+}
+.copyright-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
